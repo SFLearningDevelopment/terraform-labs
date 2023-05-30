@@ -43,5 +43,4 @@ resource "aws_cloudwatch_dashboard" "main" {
     }
   ]
 }
-EOF
 }
